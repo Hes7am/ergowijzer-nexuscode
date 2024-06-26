@@ -1,0 +1,154 @@
+{
+    "test1": {
+        "slide1": {
+            "slideContent": "<iframe src='https://www.youtube.com/embed/tgbNymZ7vqY' class='sliderImg'></iframe>",
+            "title": "Keyboard",
+            "description": "diz iz keyboard"
+        },
+        "slide2": {
+            "slideContent": "<img src='./img/1646682914-logitech-1646682907.jpg' alt='' class='sliderImg'>",
+            "title": "Mouse",
+            "description": "diz iz mouse"
+        },
+        "slide3": {
+            "slideContent": "<img src='./img/1646682914-logitech-1646682907.jpg' alt='' class='sliderImg'>",
+            "title": "Monitor",
+            "description": "diz iz monitor"
+        },
+        "slide4": {
+            "slideContent": "<img src='./img/1646682914-logitech-1646682907.jpg' alt='' class='sliderImg'>",
+            "title": "Headset",
+            "description": "diz iz headset"
+        }
+    },
+    "ErgonomicalMouse": {
+        "slide1": {
+            "slideContent": "<iframe src='https://www.youtube.com/embed/Waw5WL2VSv4?si=kchcqd2sF8S7wD4f' class='sliderImg' id='sliderVid'></iframe>",
+            "title": "Ergonomic Mouse",
+            "description": "Discover the magic of ergonomic mice! Say goodbye to wrist strain with designs tailored for comfort and efficiency. Upgrade your setup today!"
+        },
+        "slide2": {
+            "slideContent": "<img src='./img/ergoMouse/rsi_mouse_1.jpg' alt='' class='sliderImg'>",
+            "title": "Hama 182698",
+            "description": "This mouse is carefully crafted to reduce strain on the hand and wrist, providing a comfortable experience even during extended periods of use. The black cord connected to the mouse ensures easy connectivity to your computer, allowing for smooth and efficient navigation."
+        },
+        "slide3": {
+            "slideContent": "<img src='./img/ergoMouse/rsi_mouse_2.jpeg' alt='' class='sliderImg'>",
+            "title": "DXT Mouse",
+            "description": "The mouse is designed for precision accuracy and features an auto scroll wheel, support for the thumb, an ambidextrous design, a zinc base for stability, and rapid charging capabilities. It is compact and ergonomically designed."
+        },
+        "slide4": {
+            "slideContent": "<img src='./img/ergoMouse/rsi_mouse_3.jpg' alt='' class='sliderImg'>",
+            "title": "Demasko Deluxe",
+            "description": "This mouse features a comfortable thumb rest and a sculpted shape that fits perfectly in your hand. The mouse also has programmable buttons that can be customized to your liking."
+        },
+        "slide5": {
+            "slideContent": "<img src='./img/ergoMouse/rsi_mouse_4.jpg' alt='' class='sliderImg'>",
+            "title": "Evoluent VerticalMouse 4",
+            "description": "The Evoluent VerticalMouse 4 is an ergonomic mouse designed to reduce the risk of RSI (repetitive strain injury). It features a vertical design that allows you to keep your hand in a more natural position, reducing strain on your wrist and arm."
+        }
+    },
+    "ErgonomicalKeyboard": {
+        "slide1": {
+            "slideContent": "<iframe src='videos/engelsfilmpje.mp4' class='sliderImg' id='sliderVid'></iframe>",
+            "title": "Ergonomic Keyboard",
+            "description": "Ergonomic Keyboards: Say goodbye to discomfort! Discover split designs, cushioned palm rests, and adjustable angles for a typing experience tailored to your comfort. Work smarter, not harder!"
+        },
+        "slide2": {
+            "slideContent": "<img src='img/ergoKeyboard/rsi_kbd_1.jpeg' alt='' class='sliderImg'>",
+            "title": "Perixx PERIBOARD-512",
+            "description": "Introducing the Perixx PERIBOARD-512, your ergonomic keyboard solution! Enjoy comfortable typing with its split design and cushioned palm rest. Enhance your typing experience today!"
+        },
+        "slide3": {
+            "slideContent": "<img src='img/ergoKeyboard/rsi_kbd_2.webp' alt='' class='sliderImg'>",
+            "title": "Cst Wired Ultra",
+            "description": "Meet the CST Wired Ultra, your ergonomic keyboard solution! Designed for comfort and precision, its split layout and cushioned palm rest ensure a natural hand position. Elevate your typing experience with this ergonomic masterpiece!"
+        },
+        "slide4": {
+            "slideContent": "<img src='img/ergoKeyboard/rsi_kbd_3.jpeg' alt='' class='sliderImg'>",
+            "title": "Goldtouch Split Keyboard",
+            "description": "Discover the Goldtouch Split Keyboard, your ergonomic typing companion! Find blissful comfort with its adjustable split design and ergonomic keys. Upgrade your typing experience today!"
+        },
+        "slide5": {
+            "slideContent": "<img src='img/ergoKeyboard/rsi_kbd_4.jpeg' alt='' class='sliderImg'>",
+            "title": "PS2 EZ-9520E Series XP",
+            "description": "Step up your typing game with the PS2 EZ-9520E Series XP keyboard! Ergonomically designed for comfort and efficiency, it's your perfect companion for smooth, productive workdays."
+        }
+    },
+    "DeskMountedArmrest": {
+        "slide1": {
+            "slideContent": "<iframe src='videos/Armrest.Mp4' class='sliderImg' id='sliderVid'></iframe>",
+            "title": "Ergorest Armrests",
+            "description": "Ergorest armsteun is a type of ergonomic arm support device designed to reduce strain on the arms, shoulders, and neck while sitting at a desk or workstation for extended periods. <br><br> The Ergorest armrest typically consists of a padded arm support attached to an adjustable mounting bracket, which can be fixed to the edge of a desk or table."
+        },
+        "slide2": {
+            "slideContent": "<img src='img/Ergorest armrests/img.png' alt='' class='sliderImg'>",
+            "title": "Ergonomic Design",
+            "description": "Ergonomic Design: Ergorest armrests are engineered to provide optimal support for the arms, promoting a more natural and comfortable posture while working at a computer or desk."
+        },
+        "slide3": {
+            "slideContent": "<img src='img/Ergorest armrests/ER.png' alt='' class='sliderImg'>",
+            "title": "Adjustability",
+            "description": "Adjustability: Most Ergorest armrests are adjustable in height, angle, and distance from the body, allowing users to customize the arm support to their individual preferences and needs."
+        },
+        "slide4": {
+            "slideContent": "<img src='img/Ergorest armrests/AR.png' alt='' class='sliderImg'>",
+            "title": "Reduced Strain",
+            "description": "Reduced Strain: By supporting the arms and shoulders, Ergorest armrests help to alleviate strain on the muscles and joints, reducing the risk of discomfort and fatigue associated with prolonged sitting."
+        }
+    },
+    "OptimizingYourWorkplace": {
+        "slide1": {
+            "slideContent": "<iframe src='https://www.youtube.com/embed/lubwa4Y7y14?si=_DBIM70_iKPM0aZc' class='sliderImg' id='sliderVid'></iframe>",
+            "title": "Optimizing Your Workplace",
+            "description": "Discover how to create a healthier, more ergonomic workspace in this informative video on preventing Repetitive Strain Injuries (RSIs). <br><br> Learn essential tips for proper posture, ergonomic equipment setup, and healthy work habits to optimize productivity and well-being."
+        },
+        "slide2": {
+            "slideContent": "<img src='./img/workplacePosture.png' alt='' class='sliderImg'>",
+            "title": "Posture",
+            "description": "Maintain a neutral spine alignment by sitting upright with your shoulders relaxed and your lower back supported by the chair's lumbar support. <br><br> Keep your feet flat on the floor or on a footrest to ensure proper weight distribution and reduce pressure on your lower back."
+        },
+        "slide3": {
+            "slideContent": "<img src='./img/workplaceEquipment.png' alt='' class='sliderImg'>",
+            "title": "Equipment",
+            "description": "Position your keyboard and mouse at elbow height to keep your wrists in a neutral position, minimizing strain. <br><br> Use an adjustable monitor stand to ensure that the top of your screen is at or slightly below eye level, reducing neck strain and eye fatigue."
+        },
+        "slide4": {
+            "slideContent": "<img src='./img/workplaceWorkMethod.png' alt='' class='sliderImg'>",
+            "title": "Work Method",
+            "description": "Practice typing lightly and avoid excessive force when using the keyboard or mouse to reduce strain on your hands and wrists. <br><br> Implement keyboard shortcuts and ergonomic software to minimize repetitive motions and maximize efficiency."
+        },
+        "slide5": {
+            "slideContent": "<img src='./img/workplacePauses.png' alt='' class='sliderImg'>",
+            "title": "Pauses",
+            "description": "Take regular breaks to stretch and rest your eyes, aiming for a 5 to 10-minute break every hour to prevent muscle fatigue and strain. <br><br> Incorporate micro-pauses throughout your workday, such as blinking exercises or focusing on distant objects, to reduce eye strain and maintain visual comfort."
+        },
+        "slide6": {
+            "slideContent": "<img src='./img/workplaceSittingPos.png' alt='' class='sliderImg'>",
+            "title": "Correct Sitting Position",
+            "description": "Sit with your hips and knees at approximately a 90-degree angle, ensuring that your thighs are parallel to the floor. <br><br> Position your monitor directly in front of you, about an arm's length away, with the top of the screen at or slightly below eye level to promote proper neck alignment and reduce strain on your eyes and neck. <br><br> Keep your elbows close to your body and bent at around a 90-degree angle, resting comfortably on armrests, or supported by desk pads to minimize shoulder and arm fatigue.<br>"
+        }
+    },
+    "WaysToReducePain": {
+        "slide1": {
+            "slideContent": "<iframe src='https://www.youtube.com/embed/U6L4vF9Id_U?si=bUSQhuOw6ONNaG1u' class='sliderImg' id='sliderVid'></iframe>",
+            "title": "Ways to Relief Pain",
+            "description": "Learn ergonomic setups, desk stretches, and breaks to banish discomfort. Reclaim your comfort at work! "
+        },
+        "slide2": {
+            "slideContent": "<img src='img/reliefPain/7_800x.webp' alt='' class='sliderImg'>",
+            "title": "Ergonomic Chair",
+            "description": "Having a ergonomic chair can help reduce back pain and improve posture."
+        },
+        "slide3": {
+            "slideContent": "<img src='img/reliefPain/KH-GRAPHIC-POSTURE.webp' alt='' class='sliderImg'>",
+            "title": "Good posture",
+            "description": "A good posture can help reduce back pain and improve overall health."
+        },
+        "slide4": {
+            "slideContent": "<img src='img/reliefPain/stretching-her-sides-royalty-free-image-1610745178.jpeg' alt='' class='sliderImg'>",
+            "title": "Stretching",
+            "description": "Regular stretching can help reduce muscle tension and improve flexibility."
+        }
+    }
+}
